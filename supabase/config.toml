@@ -1,0 +1,7 @@
+project_id = "ackkovwsssatfksugfiy"
+
+[functions.fitness-chat]
+verify_jwt = false
+
+[functions.posture-analyze]
+verify_jwt = false
